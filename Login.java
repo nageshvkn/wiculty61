@@ -1,4 +1,3 @@
 public class Login {
-lsjfls
-
+	public static void main
 }
